@@ -10,5 +10,6 @@ public class WeTest{
   
     WeTest nunu = new WeTest();
     nunu.areWeTesting(9);
+    nunu.areWeTesting(10);
   }
 }
