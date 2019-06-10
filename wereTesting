@@ -3,7 +3,7 @@ public class WeTest{
   int c;
   public void areWeTesting(int c){
     this.c=c;
-    System.out.println("The coward loves the number "+c);
+    System.out.print("The coward loves the number "+c);
   }
   
   public static void main (String[]args){
